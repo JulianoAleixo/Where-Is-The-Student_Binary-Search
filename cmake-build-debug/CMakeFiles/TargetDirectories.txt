@@ -1,0 +1,3 @@
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/PesquisaEmVetores/PESQ_OndeEstaOEstudante/cmake-build-debug/CMakeFiles/PESQ_OndeEstaOEstudante.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/PesquisaEmVetores/PESQ_OndeEstaOEstudante/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/julia/OneDrive/Documentos/Inatel/Algoritmos 2/PesquisaEmVetores/PESQ_OndeEstaOEstudante/cmake-build-debug/CMakeFiles/rebuild_cache.dir
